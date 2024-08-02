@@ -1,7 +1,7 @@
 {
     "name": "RIAS_GREMORY-BOT v1.0",
     "description": "Simple WhatsApp Bot",
-    "logo": "https://i.imgur.com/EBUvKfB.jpeg",
+    "logo": "https://telegra.ph/file/a90b5478b5e56e67f0155.jpg",
     "keywords": ["RIAS_GREMORY-BOT", "rais", "rais-Bot"],
     "success_url": "/",
     "stack": "container",
@@ -20,7 +20,7 @@
       },
       "USER_IMAGES": {
         "description": "Menu Images",
-        "value": "https://i.imgur.com/EBUvKfB.jpeg",
+        "value": "https://telegra.ph/file/9db5c28f3428c8dc7a85e.jpg",
         "required": false
       },
   
@@ -35,7 +35,7 @@
       },
       "THUMB_IMAGE": {
         "description": "Thumbnail",
-        "value": "https://i.imgur.com/EBUvKfB.jpeg"
+        "value": "https://telegra.ph/file/a90b5478b5e56e67f0155.jpg"
       },
       "BOT_NAME": {
         "description": " NAME FOR BOT",
